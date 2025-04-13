@@ -4,6 +4,7 @@ This is a lightweight web app to help University of Wollongong Dubai (UOWD) stud
 
 Built with **Streamlit** and hosted on **Hugging Face Spaces**.
 
+Don't forget to star the repository-! It'll help me make more things like this in the future
 ---
 
 ## 📌 Features
