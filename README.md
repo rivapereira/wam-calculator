@@ -1,17 +1,33 @@
+# 🎓 UOWD WAM & GPA Calculator
 
-# UOWD WAM Calculator
+This is a lightweight web app to help University of Wollongong Dubai (UOWD) students calculate their **Weighted Average Mark (WAM)** and **Grade Point Average (GPA)** using just their transcript text.
 
-This is a simple Streamlit app to help UOWD students calculate their WAM (Weighted Average Mark) based on their subject transcript records.
+Built with **Streamlit** and hosted on **Hugging Face Spaces**.
 
-## How to Use
-- Paste your UOWD transcript text copied from SOLS.
-- The app extracts completed subjects and credit-weighted marks.
-- It calculates your WAM instantly and displays a summary.
+---
 
-## Formula Used
+## 📌 Features
 
-WAM = sum(credit × mark) / sum(credits)
+- ✅ Automatically parses your transcript text (no formatting needed!)
+- 📊 Calculates WAM using:  
+  `WAM = (subject credit × mark) / total credit`
+- 🎓 Calculates GPA using UOWD-style grade conversions:
+  - HD = 4.0
+  - DI = 3.7
+  - CR = 3.0
+  - PS = 2.0
+  - FL = 0.0
+- 🔢 Credit point breakdown for 100, 200, and 300-level subjects
+- ☁️ Runs entirely in the browser with no installation needed
 
-## Deployment
+---
 
-This app is built with Streamlit and hosted on Hugging Face Spaces.
+## 🚀 Try it now
+
+🧠 [Launch the app on Hugging Face Spaces](https://huggingface.co/spaces/rivapereira123/wam-calculator)  
+*(Change the link above to your actual space if different)*
+
+---
+
+## 📂 File Structure
+
