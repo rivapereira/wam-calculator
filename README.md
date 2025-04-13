@@ -25,7 +25,6 @@ Built with **Streamlit** and hosted on **Hugging Face Spaces**.
 ## 🚀 Try it now
 
 🧠 [Launch the app on Hugging Face Spaces](https://huggingface.co/spaces/rivapereira123/wam-calculator)  
-*(Change the link above to your actual space if different)*
 
 ---
 
