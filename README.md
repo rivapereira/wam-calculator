@@ -30,4 +30,27 @@ Built with **Streamlit** and hosted on **Hugging Face Spaces**.
 ---
 
 ## 📂 File Structure
+├── app.py # Streamlit app with full logic ├── requirements.txt # Python dependencies └── README.md # You are here
 
+## ✍️ Example Transcript Format
+
+Just copy and paste your subject records directly from SOLS — no headers needed!
+
+2025	DXB UG Winter 	Dubai/ On Campus	CSCI203	6	 	 	Enrolled
+
+
+## 👩🏻‍💻 About the Creator
+
+Made with ❤️ by **Riva Pereira**, a third-year student at UOWD.  
+Connect with me on [LinkedIn](https://linkedin.com/in/riva-pereira/)
+
+## 👩🏻‍💻 About the Creator
+
+Made with ❤️ by **Riva Pereira**, a third-year student at UOWD.  
+Connect with me on [LinkedIn](https://linkedin.com/in/riva-pereira/)
+
+---
+
+## 📜 License
+
+MIT License – feel free to fork and build your own version!
