@@ -44,11 +44,6 @@ Just copy and paste your subject records directly from SOLS — no headers neede
 Made with ❤️ by **Riva Pereira**, a third-year student at UOWD.  
 Connect with me on [LinkedIn](https://linkedin.com/in/riva-pereira/)
 
-## 👩🏻‍💻 About the Creator
-
-Made with ❤️ by **Riva Pereira**, a third-year student at UOWD.  
-Connect with me on [LinkedIn](https://linkedin.com/in/riva-pereira/)
-
 ---
 
 ## 📜 License
